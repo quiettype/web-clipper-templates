@@ -9,9 +9,10 @@ This is a community collection of templates for the official [Obsidian Web Clipp
 ## Quick start
 
 1) Install the Obsidian Web Clipper extension (Chrome/Firefox/Safari).
-2) In the extension, open Templates → “New Template”.
-3) Copy JSON from this repo’s `templates/` and paste into your template.
-4) Visit a matching site (per the template’s “triggers”), then clip using that template.
+2) Copy JSON from this repo’s `templates/`
+3) In the extension, open Templates → “New Template”.
+4) Click on "Import" and Paste the JSO into the text field and click on "Import".
+5) Visit a matching site (per the template’s “triggers”), then clip using that template.
 
 Tip: Validate your JSON before saving:
 
