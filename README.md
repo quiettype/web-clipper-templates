@@ -11,11 +11,11 @@ This is a community collection of templates for the official [Obsidian Web Clipp
 1) Install the Obsidian Web Clipper extension (Chrome/Firefox/Safari).
 2) Copy JSON from this repo’s `templates/`
 3) In the extension, open Templates → “New Template”.
-  This creates a new blank template in your list.
+   - This creates a new blank template in your list.
 4) Click on "Import" and Paste the JSON into the text field and click on "Import".
-  This will create an additional imported template entry in the list, named from the JSON import, BELOW your "New template" draft.
+   - This will create an additional imported template entry in the list, named from the JSON import, BELOW your "New template" draft.
 5) Drag the new JSON imported template below the Default template.
-  Note: the first entry in the template list is the default.
+   - Note: the first entry in the template list is the default.
 6) Delete the blank "New Template"
    a) Make sure the blank template created in step 3 is selected
    b) Click on "More > Delete" at the top of the "Edit Template" page
